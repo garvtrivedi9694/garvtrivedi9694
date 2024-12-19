@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Garv Trivedi</h1>
 <h3 align="center">BTech Student | Web Developer | Passionate About Python, SQL, & Innovation</h3>
 
+![working-from](https://github.com/user-attachments/assets/c76856fd-1852-45d5-981e-0f9d1c6ff4ee)
+
 - 🔭 I’m currently working on a **Student Management System** to streamline student data handling.
   
 - 👨‍💻 All of my projects are available on my GitHub: [GitHub - Garv Trivedi](https://github.com/garvtrivedi9694)
